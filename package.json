@@ -5,6 +5,8 @@
   "author": "Pratish",
   "repository": "https://github.com/Pratish10/monokle-template-plugin.git",
   "monoklePlugin": {
+    "id": "com.github.Pratish10.plugin.templates.basic-pod-template",
+    "helpUrl": "https://github.com/Pratish10/monokle-template-plugin.git",
     "modules": [
       {
         "type": "template",
