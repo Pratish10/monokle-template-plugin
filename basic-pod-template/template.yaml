@@ -1,10 +1,10 @@
 apiVersion: v1
 kind: Pod
-metadata: 
-  name: [[forms[0].name]] |
+metadata:
+  name: [[forms[0].name]]
 [[ forms[0].namespace ? "  namespace: " + forms[0].namespace + "\n" : ""]]
-spec: 
-  conatiners:
+spec:
+  containers:
     - image: [[forms[0].image]]
       name: [[forms[0].name]]
       resources: {}

@@ -19,6 +19,6 @@
       "filePath": "template.yaml"
     }
   ],
-  "resultMessage": "Pod resourse created successfully!",
+  "resultMessage": "Pod resource created successfully!",
   "helpUrl": "https://github.com/Pratish10/monokle-template-plugin.git"
 }
